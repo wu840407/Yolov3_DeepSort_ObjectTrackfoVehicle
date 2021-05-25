@@ -1,0 +1,4 @@
+classes=36
+train=data/license_plate.txt
+valid=data/license_plate.txt
+names=data/license_plate.names

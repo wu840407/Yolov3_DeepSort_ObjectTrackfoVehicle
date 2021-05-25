@@ -1,0 +1,5 @@
+Scooter
+Sedan
+Truck
+Bus
+Trailer
